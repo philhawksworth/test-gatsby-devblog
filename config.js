@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  tagline: 'Full-stack Web Developer',
+  author: 'Gatsby Dev Blog', // Required
+  tagline: 'An ideal blogging template for Gatsby',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
